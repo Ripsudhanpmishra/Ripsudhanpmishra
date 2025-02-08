@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ripsudhanpmishra
-- 👀 I’m interested in contributing to open source
-- 🌱 I’m currently learning problem solving using different languages
-- 💞️ I’m looking to collaborate on the projects
+- 👀 I’m interested in contributing to open source and development.
+- 🌱 I’m working on problem solving skills and learning technologies, hepls in development.
+- 💞️ I’m looking to collaborate on the projects.
 - 📫 can contect me at ripusudhanpmishra@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
